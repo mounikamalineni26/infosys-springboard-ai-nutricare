@@ -12,47 +12,42 @@ AI-NutriCare is an AI-based nutrition recommendation system designed to analyze 
 
 ## Internship Details
 
-Organization: Infosys Springboard
-
-Project Name: AI-NutriCare
-
-Branch: Mounika-AI-NutriCare
+**Organization:** Infosys Springboard  
+**Project Name:** AI-NutriCare  
+**Branch:** Mounika-AI-NutriCare  
 
 ---
 
 ## My Learning and Contributions
 
-• Explored the project modules and overall system workflow
-• Understood how nutrition and health data are processed in the system
-• Observed system outputs for different user inputs
-• Gained experience working with an organization-level GitHub repository
+* Explored the project modules and overall system workflow
+* Understood how nutrition and health data are processed in the system
+* Observed system outputs for different user inputs
+* Gained experience working with an organization-level GitHub repository
 
 ---
 
 ## Code Contribution
 
-View my code comparison here:
-
-https://github.com/SpringBoard0811/AI-NutriCare/compare/main...Mounika-AI-NutriCare
+[View My Project Branch](https://github.com/SpringBoard0811/AI-NutriCare/tree/Mounika-AI-NutriCare)
 
 ---
 
 ## System Flow
 
-User Input
-↓
-Health Data Processing
-↓
-AI Model Analysis
-↓
+User Input  
+↓  
+Health Data Processing  
+↓  
+AI Model Analysis  
+↓  
 Nutrition Recommendation Output
 
 ---
 
 ## Original Repository
 
-https://github.com/SpringBoard0811/AI-NutriCare
-
+[Original Repository](https://github.com/SpringBoard0811/AI-NutriCare)
 ---
 
 ## Note
