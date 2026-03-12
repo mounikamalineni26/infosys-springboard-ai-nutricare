@@ -13,7 +13,9 @@ AI-NutriCare is an AI-based nutrition recommendation system designed to analyze 
 ## Internship Details
 
 Organization: Infosys Springboard
+
 Project Name: AI-NutriCare
+
 Branch: Mounika-AI-NutriCare
 
 ---
