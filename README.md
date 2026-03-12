@@ -44,10 +44,10 @@ AI Model Analysis
 Nutrition Recommendation Output
 
 ---
-
 ## Original Repository
 
-[Original Repository](https://github.com/SpringBoard0811/AI-NutriCare)
+[View Original Repository](https://github.com/SpringBoard0811/AI-NutriCare)
+
 ---
 
 ## Note
